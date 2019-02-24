@@ -10,5 +10,6 @@ y=newClass()
 x.name="Pawam"
 y.setData('kumar')
 y.display()
+x.display()
 # newClass.setData("hello"
 x.display()
